@@ -1,1 +1,1 @@
-# smart-urban-logistics.yash.html
+# smart-urban-logistics
